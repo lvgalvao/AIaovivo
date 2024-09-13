@@ -1,0 +1,576 @@
+[
+    {
+        "vendedor": "ROMULO@GMAIL.COM",
+        "data": "2024-08-22",
+        "total_valor": 7500.0,
+        "total_quantidade": 9,
+        "total_vendas": 3
+    },
+    {
+        "vendedor": "STAG@STAG.COM",
+        "data": "2024-09-01",
+        "total_valor": 5656.56,
+        "total_quantidade": 10,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "SAMUEL@GMAIL.COM",
+        "data": "2024-09-02",
+        "total_valor": 1000.09,
+        "total_quantidade": 10,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "ZEDAMANGA@MANGACOMLEITE.COM",
+        "data": "2024-09-02",
+        "total_valor": 3700.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "MARIA13@GMAIL.COM",
+        "data": "2024-09-03",
+        "total_valor": 5000.0,
+        "total_quantidade": 2,
+        "total_vendas": 2
+    },
+    {
+        "vendedor": "BETO@GMAIL.COM",
+        "data": "2024-09-04",
+        "total_valor": 5000.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "DAVI.CONNECT@OUTLOOK.COM",
+        "data": "2024-09-05",
+        "total_valor": 2659.49,
+        "total_quantidade": 3,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "PEDRO@GMAIL.COM",
+        "data": "2024-09-06",
+        "total_valor": 2000.0,
+        "total_quantidade": 50,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "1234@GMAIL.COM",
+        "data": "2024-09-09",
+        "total_valor": 1979.0,
+        "total_quantidade": 145,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "EDILSONNATALINO@GMAIL.COM",
+        "data": "2024-09-09",
+        "total_valor": 2000.0,
+        "total_quantidade": 5,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "KAIO@GMAIL.COM",
+        "data": "2024-09-09",
+        "total_valor": 3000.0,
+        "total_quantidade": 5,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "MARCINHO@TESTE.COM",
+        "data": "2024-09-09",
+        "total_valor": 3500.99,
+        "total_quantidade": 10,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "MARCIO@MARCIO.COM",
+        "data": "2024-09-09",
+        "total_valor": 26999.94,
+        "total_quantidade": 90,
+        "total_vendas": 6
+    },
+    {
+        "vendedor": "SALVE_O_TRICOLOR_PAULISTA@CAMPEAO.DO.MUNDO",
+        "data": "2024-09-09",
+        "total_valor": 3500.0,
+        "total_quantidade": 3,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "TEST_2@HOTMAIL.COM",
+        "data": "2024-09-09",
+        "total_valor": 1800.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "TESTE@GMAIL.COM",
+        "data": "2024-09-09",
+        "total_valor": 2500.0,
+        "total_quantidade": 4,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "ARAUJO23@GMAILL.COM",
+        "data": "2024-09-10",
+        "total_valor": 1524.0,
+        "total_quantidade": 10,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "CARLOS_HIDEKI@GMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 5000.0,
+        "total_quantidade": 12,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "FAKE-KUN2011@HOTMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 4500.0,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "GIUSEPPE.CAMOLLI@GMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 1298.99,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "GUILHERME.COSTA@GMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 1500.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "GUILHERME.LIMA@YMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 2500.0,
+        "total_quantidade": 4,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "LUISFLAVO@HOTMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 6000.0,
+        "total_quantidade": 2,
+        "total_vendas": 2
+    },
+    {
+        "vendedor": "MAURORUAS@HOTMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 2500.0,
+        "total_quantidade": 10,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "MILA@GMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 7500.0,
+        "total_quantidade": 18,
+        "total_vendas": 3
+    },
+    {
+        "vendedor": "PAULATEJANDO@GMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 9000.0,
+        "total_quantidade": 15000,
+        "total_vendas": 3
+    },
+    {
+        "vendedor": "SPACE_FLIP@HOTMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 1337.0,
+        "total_quantidade": 7,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "TEST_2@YAHOO.COM",
+        "data": "2024-09-10",
+        "total_valor": 1622.86,
+        "total_quantidade": 4,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "TONY@STARK.COM",
+        "data": "2024-09-10",
+        "total_valor": 3843.87,
+        "total_quantidade": 3,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "WASHINGTON@GMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 18000.0,
+        "total_quantidade": 90,
+        "total_vendas": 6
+    },
+    {
+        "vendedor": "ZAPPONE@GMAIL.COM",
+        "data": "2024-09-10",
+        "total_valor": 12000.0,
+        "total_quantidade": 48,
+        "total_vendas": 4
+    },
+    {
+        "vendedor": "ZE@EMAIL.NET",
+        "data": "2024-09-10",
+        "total_valor": 6000.0,
+        "total_quantidade": 300,
+        "total_vendas": 3
+    },
+    {
+        "vendedor": "ANAGATINHA@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 5000.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "ANDRE@CRMG.COM.BR",
+        "data": "2024-09-11",
+        "total_valor": 9999.99,
+        "total_quantidade": 30,
+        "total_vendas": 2
+    },
+    {
+        "vendedor": "BARRETO@TESTE.COM",
+        "data": "2024-09-11",
+        "total_valor": 5000.0,
+        "total_quantidade": 5,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "BBB@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 1500.0,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "BLESSCONSULT2024@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 1500.0,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "BPMNEGOCIOS@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 1280.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "CAIQUE@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 2500.0,
+        "total_quantidade": 5,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "CCC@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 3000.0,
+        "total_quantidade": 11,
+        "total_vendas": 2
+    },
+    {
+        "vendedor": "CLEITON@EMAIL.COM.BR",
+        "data": "2024-09-11",
+        "total_valor": 2300.0,
+        "total_quantidade": 3,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "EDILSONNATALINO@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 2000.0,
+        "total_quantidade": 5,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "ESTAGIARIO@JORNADADEDADOS.COM.BR",
+        "data": "2024-09-11",
+        "total_valor": 5000.0,
+        "total_quantidade": 3,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "FABIO@DASHX.COM.BR",
+        "data": "2024-09-11",
+        "total_valor": 13500.0,
+        "total_quantidade": 300,
+        "total_vendas": 3
+    },
+    {
+        "vendedor": "FAKE-KUN2011@HOTMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 4500.0,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "FELIPE@ZAP.ZAP",
+        "data": "2024-09-11",
+        "total_valor": 2000.0,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "FICAFRIO@FRIO.COM",
+        "data": "2024-09-11",
+        "total_valor": 138000.0,
+        "total_quantidade": 1150,
+        "total_vendas": 46
+    },
+    {
+        "vendedor": "GENERICOCAROL@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 20000.0,
+        "total_quantidade": 70,
+        "total_vendas": 4
+    },
+    {
+        "vendedor": "KAIO@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 3000.0,
+        "total_quantidade": 10,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "KRATOS@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 2000.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "LEANDR0S@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 21000.0,
+        "total_quantidade": 12,
+        "total_vendas": 6
+    },
+    {
+        "vendedor": "LEANDR0S@GMIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 8999.96,
+        "total_quantidade": 272,
+        "total_vendas": 3
+    },
+    {
+        "vendedor": "LIRA@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 5000.0,
+        "total_quantidade": 4,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "LUCIANOGALVAO@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 3500.0,
+        "total_quantidade": 5,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "LUCIANO@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 3000.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "LUCIANOLINDAO@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 29499.99,
+        "total_quantidade": 8,
+        "total_vendas": 8
+    },
+    {
+        "vendedor": "MAHCOSTA54@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 5600.0,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "MARCIO@MARCIO.COM",
+        "data": "2024-09-11",
+        "total_valor": 62999.94,
+        "total_quantidade": 210,
+        "total_vendas": 14
+    },
+    {
+        "vendedor": "MATHEUSGALVAO@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 5000.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "MAYCOMCACHINA306@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 5000.0,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "MILA@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 3000.0,
+        "total_quantidade": 10,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "RAFAEL@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 3500.0,
+        "total_quantidade": 7,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "ROBERTNILSON@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 20000.0,
+        "total_quantidade": 40,
+        "total_vendas": 4
+    },
+    {
+        "vendedor": "ROBERTO@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 10000.0,
+        "total_quantidade": 4,
+        "total_vendas": 4
+    },
+    {
+        "vendedor": "SAULO.FENDER10@YAHOO.COM.BR",
+        "data": "2024-09-11",
+        "total_valor": 1100.0,
+        "total_quantidade": 8,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "SSS@SSS.COM",
+        "data": "2024-09-11",
+        "total_valor": 2000.0,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "TAYNARAST.B@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 1500.02,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "TEOBALDO@SDA.SDAD",
+        "data": "2024-09-11",
+        "total_valor": 2000.01,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "TEST_6@YAHOO.COM",
+        "data": "2024-09-11",
+        "total_valor": 2222.22,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "TESTE1@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 5000.01,
+        "total_quantidade": 69,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "TESTE@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 6200.01,
+        "total_quantidade": 7,
+        "total_vendas": 2
+    },
+    {
+        "vendedor": "TESTE@TESTE.COM",
+        "data": "2024-09-11",
+        "total_valor": 2000.0,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "TOATOA@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 7000.0,
+        "total_quantidade": 63,
+        "total_vendas": 2
+    },
+    {
+        "vendedor": "VINICIUS@EMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 1999.99,
+        "total_quantidade": 50,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "VINICIUS@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 12000.0,
+        "total_quantidade": 6,
+        "total_vendas": 6
+    },
+    {
+        "vendedor": "WAGNERBARROOS@GMAIL.COM",
+        "data": "2024-09-11",
+        "total_valor": 11000.0,
+        "total_quantidade": 4,
+        "total_vendas": 4
+    },
+    {
+        "vendedor": "JOSEDASILVA@GMAIL.COM",
+        "data": "2024-09-12",
+        "total_valor": 1500.0,
+        "total_quantidade": 1,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "KAIOTAOFF@GMAIL.COM",
+        "data": "2024-09-12",
+        "total_valor": 68000.0,
+        "total_quantidade": 68,
+        "total_vendas": 34
+    },
+    {
+        "vendedor": "NABISCO@HOTMAIL.COM",
+        "data": "2024-09-12",
+        "total_valor": 3000.0,
+        "total_quantidade": 10,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "PEREIRAMARCOS1998@GMAIL.COM",
+        "data": "2024-09-12",
+        "total_valor": 1500.0,
+        "total_quantidade": 3,
+        "total_vendas": 1
+    },
+    {
+        "vendedor": "ROBERTO@GMAIL.COM",
+        "data": "2024-09-12",
+        "total_valor": 15000.0,
+        "total_quantidade": 6,
+        "total_vendas": 6
+    },
+    {
+        "vendedor": "WAGNER@GMAIL.COM",
+        "data": "2024-09-12",
+        "total_valor": 3000.0,
+        "total_quantidade": 2,
+        "total_vendas": 2
+    }
+]

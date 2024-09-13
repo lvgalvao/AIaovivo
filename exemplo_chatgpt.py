@@ -2,8 +2,6 @@ import openai
 import os
 from dotenv import load_dotenv
 
-from pandas
-
 load_dotenv()
 
 # Set your API key
@@ -14,7 +12,7 @@ def pergunte_ao_chatgpt(pergunta: str):
     response = openai.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
-            {"role": "user", "content": pergunta}
+            {"role": "user", "content": ""}
         ]
     )
     # Extracting the actual content message from the response

@@ -1,0 +1,128 @@
+[
+    {
+        "data": "2024-08-22",
+        "produto": "zapflow com llama3.0",
+        "total_valor": 7500.0,
+        "total_quantidade": 9,
+        "total_vendas": 3
+    },
+    {
+        "data": "2024-09-01",
+        "produto": "zapflow com gemini",
+        "total_valor": 5656.56,
+        "total_quantidade": 10,
+        "total_vendas": 1
+    },
+    {
+        "data": "2024-09-02",
+        "produto": "zapflow com chatgpt",
+        "total_valor": 4700.09,
+        "total_quantidade": 12,
+        "total_vendas": 2
+    },
+    {
+        "data": "2024-09-03",
+        "produto": "zapflow com chatgpt",
+        "total_valor": 5000.0,
+        "total_quantidade": 2,
+        "total_vendas": 2
+    },
+    {
+        "data": "2024-09-04",
+        "produto": "zapflow com llama3.0",
+        "total_valor": 5000.0,
+        "total_quantidade": 2,
+        "total_vendas": 1
+    },
+    {
+        "data": "2024-09-05",
+        "produto": "zapflow com llama3.0",
+        "total_valor": 2659.49,
+        "total_quantidade": 3,
+        "total_vendas": 1
+    },
+    {
+        "data": "2024-09-06",
+        "produto": "zapflow com gemini",
+        "total_valor": 2000.0,
+        "total_quantidade": 50,
+        "total_vendas": 1
+    },
+    {
+        "data": "2024-09-09",
+        "produto": "zapflow com chatgpt",
+        "total_valor": 11000.0,
+        "total_quantidade": 17,
+        "total_vendas": 4
+    },
+    {
+        "data": "2024-09-09",
+        "produto": "zapflow com gemini",
+        "total_valor": 34279.93,
+        "total_quantidade": 247,
+        "total_vendas": 9
+    },
+    {
+        "data": "2024-09-10",
+        "produto": "zapflow com chatgpt",
+        "total_valor": 43166.86,
+        "total_quantidade": 15119,
+        "total_vendas": 15
+    },
+    {
+        "data": "2024-09-10",
+        "produto": "zapflow com gemini",
+        "total_valor": 10000.0,
+        "total_quantidade": 14,
+        "total_vendas": 4
+    },
+    {
+        "data": "2024-09-10",
+        "produto": "zapflow com llama3.0",
+        "total_valor": 30959.86,
+        "total_quantidade": 379,
+        "total_vendas": 12
+    },
+    {
+        "data": "2024-09-11",
+        "produto": "zapflow com chatgpt",
+        "total_valor": 210822.21,
+        "total_quantidade": 1426,
+        "total_vendas": 65
+    },
+    {
+        "data": "2024-09-11",
+        "produto": "zapflow com gemini",
+        "total_valor": 218399.93,
+        "total_quantidade": 743,
+        "total_vendas": 62
+    },
+    {
+        "data": "2024-09-11",
+        "produto": "zapflow com llama3.0",
+        "total_valor": 32980.0,
+        "total_quantidade": 225,
+        "total_vendas": 12
+    },
+    {
+        "data": "2024-09-12",
+        "produto": "zapflow com chatgpt",
+        "total_valor": 66500.0,
+        "total_quantidade": 65,
+        "total_vendas": 32
+    },
+    {
+        "data": "2024-09-12",
+        "produto": "zapflow com gemini",
+        "total_valor": 3500.0,
+        "total_quantidade": 3,
+        "total_vendas": 2
+    },
+    {
+        "data": "2024-09-12",
+        "produto": "zapflow com llama3.0",
+        "total_valor": 22000.0,
+        "total_quantidade": 22,
+        "total_vendas": 11
+    }
+]
